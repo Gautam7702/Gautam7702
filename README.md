@@ -3,7 +3,7 @@
 -    I like solving problems and have a keen interest in mathematics. 
 -    I am eager to apply my knowledge in real life and build cool things.
 -    I’m interested in ML, Data Science, Web development and competitive progamming.
--    I know the basics of the following language :  C,C++,Python,HTML,VERILOG and C++
+-    I know the basics of the following language :  C,C++,Python,HTML,VERILOG and JavaScript.
 
 <!---
 Gautam7702/Gautam7702 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
